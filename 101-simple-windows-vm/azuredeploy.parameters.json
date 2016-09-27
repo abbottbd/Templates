@@ -3,16 +3,23 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "bastore2"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "cloudadmin"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "C1oud@dmin"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "bda0927"
+    },
+    
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
